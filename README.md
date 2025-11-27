@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
  I’m currently working on Learning the fundamentals of software development and building small projects in web development & Python.<br> I’m looking to collaborate on Beginner-friendly projects involving HTML, CSS, JavaScript, Python, or basic backend development.<br> I’m looking for help with Improving my coding practices, understanding data structures, and exploring open-source contributions.<br> I’m currently learning Java, Python, Git/GitHub, and the basics of full-stack development.<br> Ask me about Student projects, beginner programming tips, or anything related to the BCA journey!<br> Fun fact I break my code more than I fix it… but that’s how I learn faster 
 
 
