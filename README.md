@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently pursuing bca learning the fundamentals of software development and building small projects in web development & Python.<br>👯 I’m looking to collaborate on python,java,javascript,html,css,c<br>🤝 I’m looking for help with google<br>🌱 I’m currently learning Java, Python, Git/GitHub, and the basics of full-stack development<br>💬 Ask me about Student projects, beginner programming tips, or anything related to the BCA journey!<br>⚡ Fun fact
+#  About Me:
+I’m currently pursuing bca learning the fundamentals of software development and building small projects in web development & Python.<br> I’m looking to collaborate on python,java,javascript,html,css,c<br>I’m looking for help with google<br> I’m currently learning Java, Python, Git/GitHub, and the basics of full-stack development<br>💬 Ask me about Student projects, beginner programming tips, or anything related to the BCA journey!<br> Fun fact
 
 
 # 💻 Tech Stack:
